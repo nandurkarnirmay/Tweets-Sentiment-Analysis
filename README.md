@@ -33,7 +33,7 @@ A Streamlit-based web app that performs sentiment analysis on tweets using Natur
 
 4. Run the app:
    ```bash
-   streamlit run TweetsAnalysis.py
+   streamlit run main.py
    ```
 
 ## 📝 License
